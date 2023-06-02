@@ -1,4 +1,4 @@
-# ia-rush
+# Rush Hour AI Agent
 
 Projecto de Inteligência Artificial 2022 - Rush Hour
 
